@@ -71,11 +71,3 @@
 <a href="mailto:kadermayora@gmail.com"><img src="https://img.shields.io/badge/-xDefyy-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/latekaderr/"><img src="https://img.shields.io/badge/-Latekaderr-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/xDefyy/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
