@@ -67,7 +67,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-xDefyy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kadermayorawele/"><img src="https://img.shields.io/badge/-KaderMayora-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kadermayora@gmail.com"><img src="https://img.shields.io/badge/-xDefyy-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/latekaderr/"><img src="https://img.shields.io/badge/-Latekaderr-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
