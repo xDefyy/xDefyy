@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=xDefyy&label=Profile%20views&color=0e75b6&style=flat" alt="xDefyy" /> </p>
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Kader Mayora</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Kader Mayora -->
